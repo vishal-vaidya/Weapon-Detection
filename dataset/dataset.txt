@@ -1,0 +1,9 @@
+The Dataset Used for this model, can be downloaded from:
+
+https://www.kaggle.com/jubaerad/weapons-in-images-segmented-videos
+
+OR
+
+A ZIP file which i have uploaded in my drive, can be downloaded from here
+
+https://drive.google.com/file/d/15dtAYCwF0TTvWi1lQhJoNA15a5KmPzV6/view?usp=sharing
